@@ -1,0 +1,4 @@
+venv
+output/*
+downloads/*
+.DS_Store
